@@ -16,6 +16,7 @@ body {
     align-items: center;
 }
 .card {
+    margin-block: 1em;
     background-color: #fff;
     width: 90%;
     max-width: 350px;
